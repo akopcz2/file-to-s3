@@ -1,4 +1,4 @@
-## Mongo-s3
+## 🍃 Mongo-s3
 Backup your mongo database to s3
 
 Runs off sync shelljs commands
